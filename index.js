@@ -18,3 +18,10 @@ let lastName = 'Hamedani';
 const interestRate = 0.3;
 interestRate = 1;
 console.log(interestRate);
+
+// Primitive Types
+let name = 'Mosh'; //String Literal
+let age = 30; //Number Literal
+let isApproved = true; //Boolean Literal true or false
+let firstName = undefined;
+let lastName = null; //
