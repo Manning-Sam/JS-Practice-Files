@@ -42,3 +42,18 @@ selectedColors[2] = 'green';
 selectedColors[3] = 1;
 
 //Functions
+//Performing a task
+function greet() {
+    console.log('Hello World');
+}
+function greet(name) {
+    console.log('Hello ' + name);
+}
+//Calculating a Value
+function square(number) {
+    return number * number;
+}
+let number = square(2);
+console.log(number);
+//or
+console.log(square(2));
