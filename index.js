@@ -36,3 +36,9 @@ person.name = 'John';
 //Bracket Notaion
 person['name'] = 'Mary'; 
 
+//Arrays
+let selectedColors = ['red', 'blue'];
+selectedColors[2] = 'green'; 
+selectedColors[3] = 1;
+
+//Functions
