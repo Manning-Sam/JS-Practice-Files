@@ -19,9 +19,15 @@ const interestRate = 0.3;
 interestRate = 1;
 console.log(interestRate);
 
-// Primitive Types
+//Primitive Types
 let name = 'Mosh'; //String Literal
 let age = 30; //Number Literal
 let isApproved = true; //Boolean Literal true or false
 let firstName = undefined;
-let lastName = null; //
+let lastName = null; //want to explicitly clear the value of a variable
+
+//Objects
+let person = {
+    name: 'Mosh',
+    age: 30
+};
